@@ -55,11 +55,11 @@
         "sdl2-v2_0_3": "sdl2-v2_0_3"
       },
       "locked": {
-        "lastModified": 1647068372,
-        "narHash": "sha256-j77Zp2ZG2iJ2LPVcy7K8Y7IjfPU4VjicNQA0jJ/YMm4=",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
         "owner": "nim-nix-pkgs",
         "repo": "sdl2",
-        "rev": "67dc6f959206cc954c7551d277bef1ff87736787",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
         "type": "github"
       },
       "original": {
@@ -82,13 +82,20 @@
         "src-sdl2-master": "src-sdl2-master"
       },
       "locked": {
-        "narHash": "sha256-A2VTY/tXkm8voBKM7cJnOmMmi7lxasOklCuDv8T/1PI=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "sdl2",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "sdl2",
+        "type": "github"
       }
     },
     "sdl2-v2_0": {
@@ -104,13 +111,20 @@
         "src-sdl2-v2_0": "src-sdl2-v2_0"
       },
       "locked": {
-        "narHash": "sha256-TRWomO4HclqkL054OwOy2u4i1kvuXfFVR3j51cSTe84=",
-        "path": "./v2_0",
-        "type": "path"
+        "dir": "v2_0",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "sdl2",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
+        "type": "github"
       },
       "original": {
-        "path": "./v2_0",
-        "type": "path"
+        "dir": "v2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "sdl2",
+        "type": "github"
       }
     },
     "sdl2-v2_0_1": {
@@ -126,13 +140,20 @@
         "src-sdl2-v2_0_1": "src-sdl2-v2_0_1"
       },
       "locked": {
-        "narHash": "sha256-aF+XAyoHZW6toKtepOsFCE+S87xKTuvICtiFi1VeZPU=",
-        "path": "./v2_0_1",
-        "type": "path"
+        "dir": "v2_0_1",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "sdl2",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
+        "type": "github"
       },
       "original": {
-        "path": "./v2_0_1",
-        "type": "path"
+        "dir": "v2_0_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "sdl2",
+        "type": "github"
       }
     },
     "sdl2-v2_0_2": {
@@ -148,13 +169,20 @@
         "src-sdl2-v2_0_2": "src-sdl2-v2_0_2"
       },
       "locked": {
-        "narHash": "sha256-6WN8gcG8cgG093PLjpgAtq/W/+dBH9S1G/o/jwobDRI=",
-        "path": "./v2_0_2",
-        "type": "path"
+        "dir": "v2_0_2",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "sdl2",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
+        "type": "github"
       },
       "original": {
-        "path": "./v2_0_2",
-        "type": "path"
+        "dir": "v2_0_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "sdl2",
+        "type": "github"
       }
     },
     "sdl2-v2_0_3": {
@@ -170,13 +198,20 @@
         "src-sdl2-v2_0_3": "src-sdl2-v2_0_3"
       },
       "locked": {
-        "narHash": "sha256-nkc1P1VaSPXD/tGTDfifGvUqRmKMsTn4My+2jxylaYI=",
-        "path": "./v2_0_3",
-        "type": "path"
+        "dir": "v2_0_3",
+        "lastModified": 1647112533,
+        "narHash": "sha256-GBqahMjVW4ul/HOgLH48ngBNuC1mpL9hwBqBq955sLo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "sdl2",
+        "rev": "6aee564025732118c40653d2192d912bde4a48be",
+        "type": "github"
       },
       "original": {
-        "path": "./v2_0_3",
-        "type": "path"
+        "dir": "v2_0_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "sdl2",
+        "type": "github"
       }
     },
     "src-sdl2-master": {
