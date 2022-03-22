@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-tinamou-master.flake = false;
+  inputs.src-tinamou-master.ref   = "refs/heads/master";
   inputs.src-tinamou-master.owner = "Double-oxygeN";
-  inputs.src-tinamou-master.ref   = "master";
   inputs.src-tinamou-master.repo  = "tinamou";
   inputs.src-tinamou-master.type  = "github";
   
