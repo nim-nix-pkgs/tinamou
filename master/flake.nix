@@ -11,7 +11,6 @@
   inputs.src-tinamou-master.ref   = "refs/heads/master";
   inputs.src-tinamou-master.owner = "Double-oxygeN";
   inputs.src-tinamou-master.repo  = "tinamou";
-  inputs.src-tinamou-master.dir   = "";
   inputs.src-tinamou-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
